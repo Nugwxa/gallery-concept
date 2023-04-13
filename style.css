@@ -1,0 +1,41 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#header {
+    margin-top: -19px;
+    background-color: #000000;
+    height: 110px;
+    width: 100%;
+    color: #faf9f9;
+}
+
+#header ul {
+    padding-top: 45px;
+}
+
+#header ul li{
+    display: inline;
+    padding-left: 10px;
+}
+
+
+#content-container{
+    padding-left: 10%;
+    background-color: #ffffff;
+    width: 80%;
+}
+
+#welcome-section{
+    margin-top: -2%;
+    text-align: center;
+    height: 290px;
+    background-color: #d4d4d4;
+    width: 100%;
+    font-weight: bold;
+}
+
+#welcome-section h1{
+    padding-top: 80px;
+
+}
